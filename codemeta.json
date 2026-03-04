@@ -1,0 +1,13 @@
+{
+    "@context": "https://w3id.org/codemeta/3.0",
+    "codeRepository": "https://github.com/Jin-Muss/Seminar3.git",
+    "dateCreated": "2026-03-04",
+    "dateModified": "2026-03-04",
+    "datePublished": "2026-03-04",
+    "description": "Data Science Seminar 3 Assignment",
+    "name": "Seminar 3",
+    "operatingSystem": "Windows",
+    "programmingLanguage": "Python 3",
+    "version": "1.0.0",
+    "@type": "SoftwareSourceCode"
+}
