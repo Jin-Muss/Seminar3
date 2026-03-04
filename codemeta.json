@@ -1,5 +1,13 @@
 {
     "@context": "https://w3id.org/codemeta/3.0",
+    "author": [
+        {
+            "email": "r.jin@alumnos.upm.es",
+            "familyName": "Jin",
+            "givenName": "Ronghao",
+            "@type": "Person"
+        }
+    ],
     "codeRepository": "https://github.com/Jin-Muss/Seminar3.git",
     "dateCreated": "2026-03-04",
     "dateModified": "2026-03-04",
